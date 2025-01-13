@@ -1,8 +1,7 @@
 import React from 'react'
 
-export const page = () => {
+export default function Page(){
   return (
-    <p>Dashboard</p>
+    <p>Dashboard Page</p>
   )
 }
-export default page;
